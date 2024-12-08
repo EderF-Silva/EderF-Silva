@@ -17,19 +17,3 @@ Aqui estão algumas das principais ferramentas e tecnologias que utilizo no meu 
 
 
 <br> <!-- Espaçamento extra -->
-
-## 🎓 Formação  
-
-- **Tecnologia em Análise e Desenvolvimento de Sistemas**  
-  - **Instituição:** Universidade Uninove  
-
-
-- **Pós-graduação em Desenvolvimento Full Stack**  
-  - **Instituição:** PUC Minas  
-  - **Previsão de Conclusão:** Em Andamento.  
-
-
-<br> <!-- Espaçamento extra -->
-
-## 📫 Contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ederf-silva/)  
